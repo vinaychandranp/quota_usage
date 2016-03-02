@@ -1,3 +1,3 @@
 # quota_usage
 
-Command line tool to find the quota used in the Studentenwohnheim of TU Kaiserslautern
+Command line tool to find the quota consumed in any apartment of the Studentenwohnheim at TU Kaiserslautern
